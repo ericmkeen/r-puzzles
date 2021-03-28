@@ -1,0 +1,12 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: ericmkeen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3873655
+bundleId: 4402816
+url: https://ericmkeen.shinyapps.io/learnr_app1/
+when: 1616891935.55463
+asMultiple: FALSE
+asStatic: FALSE
